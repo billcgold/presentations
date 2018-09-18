@@ -120,27 +120,3 @@ plot.All.XY.by.Z ( dt.mtcars, x=2, y=4:11, z=3)
 
 # venn.diagram ( dt.mtcars [ , carb ], dt.mtcars [ , gear ], 'carb', 'gear' )
 
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
